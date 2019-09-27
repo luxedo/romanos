@@ -1,5 +1,5 @@
 # Palestrinha
-Este repo contém notebooks ou slides de algumas apresentaçõeszinhas.
+Este repo contém notebooks ou slides de algumas apresentações.
 
 > ### 1. Romanos
 > Um notebookzinho sobre redes neurais e algarismos romanos.
