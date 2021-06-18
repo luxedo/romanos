@@ -13,3 +13,7 @@ Este repo contém notebooks ou slides de algumas apresentações.
 > Aprenda algumas operações interessantes do pandas e também
 > como criar um modelo de árvore de decisão
 > [Confira Aqui!](engenharia-de-features-com-pandas)
+
+> ### 4. Breaking DDES
+> Aprenda a atacar a criptografia DES e Double DES
+> [Confira Aqui!](https://github.com/luxedo/palestrinha/blob/master/breaking-ddes/Breaking%20DDES.ipynb)
